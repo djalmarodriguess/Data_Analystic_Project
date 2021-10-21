@@ -111,6 +111,8 @@ mas também valores totais de vendas, valores por categorias, porcentagem dos pr
 o período de cada venda(podendo ser ajustado para qualquer data no período de venda).
 Tendo assim de forma mais clara e fácil de identificação os dados necessários para as devidas tomadas de ação.
 
-<iframe width="800" height="636" src="https://app.powerbi.com/view?r=eyJrIjoiZGI2MjExZTgtMDBmYy00NWIzLWIzZmUtYmQ5NGM5YTBkMzIyIiwidCI6IjQzZDMwZGIxLThkNGItNDA5Yi04ZWYzLWVlODRmZDRjZGIzOSJ9" frameborder="0" allowFullScreen="true"></iframe>
+## Clique na imagem para abrir os dados no PowerBI!
+
+<p><a href="https://app.powerbi.com/view?r=eyJrIjoiZGI2MjExZTgtMDBmYy00NWIzLWIzZmUtYmQ5NGM5YTBkMzIyIiwidCI6IjQzZDMwZGIxLThkNGItNDA5Yi04ZWYzLWVlODRmZDRjZGIzOSJ9" title="Clique aqui para acessar o relatório" rel="nofollow"><img src="https://github.com/djalmarodriguess/Data_Analystic_Project/blob/main/Power%20BI.png" alt="Vendas" style="max-width: 100%;"></a></p>
 
 
