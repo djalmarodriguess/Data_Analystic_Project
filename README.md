@@ -100,7 +100,7 @@ from Production.Product p
 
 ## Modelo de dados
 
-Abaixo está uma captura de tela do modelo de dados e as conecções das tabelas.
+Abaixo está uma captura de tela do modelo de dados e as conexões das tabelas.
 
 ![tabela_conectada](https://github.com/djalmarodriguess/Data_Analystic_Project/blob/main/tabelas_conectadas.png)
 
